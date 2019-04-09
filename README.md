@@ -56,6 +56,50 @@ O projeto ficou dividido em 3 etapas que são:
 
 ## Marcos
 
-Fases ou grupo de Processos |  Marcos                               | Previsão          |
-:--------------------------:|:-------------------------------------:|:-----------------:|
-Definição do Projeto	    |Projeto definido e aprovado pela Grupo	|15/03/19
+Fases ou grupo de Processos |  Marcos                                       | Previsão |
+:--------------------------:|:---------------------------------------------:|:--------:|
+Definição do Projeto	    |Projeto definido e aprovado pela Grupo	        |15/03/19  |
+Gerenciamento do Projeto    |Diretivas para os modelos administrativos      |A definir |
+Diretivas de Projeto        |Planejamento concluído e Linhas de Base Salvas |A definir |
+Modelo Administrativo       |Definição de regras para o projeto	            |A definir | 
+Desenvolvimento	            |Início desenvolvimento browser	                |A definir | 
+|                           |Início desenvolvimento Aplicativo de controle  |A definir |
+Entrega                     |Release inicial do aplicativo	                |A definir | 
+Encerramento	            |Projeto Entregue e Encerrado	                |28/06/19  |
+
+                            
+## Partes interessadas do Projeto
+ 
+ Veja documento de Registro das partes interessadas em anexo.
+
+## Restrições
+
+Orçamento total do projeto: R$50.000,00
+Data de implantação do sistema prevista: 29/06/2019
+
+## Premissas
+
+Para cumprir o prazo determinado, a equipe terá que ter no mínimo 2 desenvolvedores ativos e 1 responsável para a elaboração dos templates administrativos. 
+
+## Riscos
+
+Descrição do risco          |  Descrição do Impacto           | Ação     | Descrição da ação    |  Responsável  |Previsão     |
+:--------------------------:|:-------------------------------:|:--------:|:--------------------:|:--------------|:-----------:|
+Eventos como não disponibilidade de colaborador|Atrasar o desenvolvimento de uma das 3 etapas do projeto.|Mitigar	|Redistribuição de tarefas para minimizar o impacto da falta do colaborador.|A definir	|Durante todo projeto|
+
+## Orçamento do Projeto
+
+O orçamento total para o projeto é de R$50.000,00 e a duração do projeto previsto de 3 meses.
+
+Período                | Orçamento | Comentários          |
+:---------------------:|:---------:|:--------------------:|
+01/03/2019-08/03/2019  | R$8.000   |Primeiras despesas para o início de trabalho para a equipe.|
+28/06/2019	           | R$42.000  |Pagamento final       |
+
+
+ 
+ 
+                        
+
+
+
