@@ -1661,7 +1661,7 @@ object ShareCenterFrame: TShareCenterFrame
     end
     object CertEdit_DateStart: TEdit
       Left = 144
-      Top = 216
+      Top = 219
       Width = 260
       Height = 21
       BorderStyle = bsNone
@@ -1670,7 +1670,7 @@ object ShareCenterFrame: TShareCenterFrame
     end
     object CertEdit_DateEnd: TEdit
       Left = 144
-      Top = 235
+      Top = 238
       Width = 260
       Height = 21
       BorderStyle = bsNone
@@ -1679,7 +1679,7 @@ object ShareCenterFrame: TShareCenterFrame
     end
     object CertEdit_EmCN: TEdit
       Left = 144
-      Top = 155
+      Top = 158
       Width = 260
       Height = 21
       BorderStyle = bsNone
@@ -1688,7 +1688,7 @@ object ShareCenterFrame: TShareCenterFrame
     end
     object CertEdit_EmO: TEdit
       Left = 144
-      Top = 174
+      Top = 177
       Width = 260
       Height = 21
       BorderStyle = bsNone
@@ -1696,8 +1696,8 @@ object ShareCenterFrame: TShareCenterFrame
       TabOrder = 3
     end
     object CertEdit_OrgCN: TEdit
-      Left = 144
-      Top = 93
+      Left = 143
+      Top = 92
       Width = 260
       Height = 21
       BorderStyle = bsNone
@@ -1706,7 +1706,7 @@ object ShareCenterFrame: TShareCenterFrame
     end
     object CertEdit_OrgO: TEdit
       Left = 144
-      Top = 112
+      Top = 115
       Width = 260
       Height = 21
       BorderStyle = bsNone
