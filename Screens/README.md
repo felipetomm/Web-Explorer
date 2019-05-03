@@ -18,4 +18,4 @@ Navegador Web Corporativo
 ![Cadastro](https://user-images.githubusercontent.com/42187451/57133002-cf6be000-6d77-11e9-9277-6e9f61cd4fe3.PNG)
 
 ### Tela de cadastro de grupo
-
+![telaGrupo](https://user-images.githubusercontent.com/42187451/57133052-017d4200-6d78-11e9-969a-4473fedf24a3.PNG)
