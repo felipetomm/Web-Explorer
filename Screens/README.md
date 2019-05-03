@@ -13,3 +13,9 @@ Navegador Web Corporativo
 
 ### Tela principal
 ![principal](https://user-images.githubusercontent.com/42187451/57132905-713efd00-6d77-11e9-9065-81653fffe6d8.PNG)
+
+### Tela de cadastro de usuário
+![Cadastro](https://user-images.githubusercontent.com/42187451/57133002-cf6be000-6d77-11e9-9277-6e9f61cd4fe3.PNG)
+
+### Tela de cadastro de grupo
+
